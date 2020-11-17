@@ -21,7 +21,7 @@ Group Project of COMP9517
                 - task2  
                 - task3  
 
-      - [ ] Experimental Setup
+      - [ ] Experimental Setup  
                 - task1  
                 - task2  
                 - task3 
