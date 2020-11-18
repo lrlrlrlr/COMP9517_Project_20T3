@@ -9,10 +9,10 @@ Group Project of COMP9517
 
 ## Mock Demo with Ari
  ### Things to improve (PPT)
-  #### Overall:  font format / style
-  #### Task definision: talk about the dataset
-  #### Method:  More detail about other implementations
-  #### conclusion:  write a conclusion
+  - Overall:  font format / style
+  - Task definision: talk about the dataset
+  - Method:  More detail about other implementations
+  - Conclusion:  write a conclusion
   
 
 ## Teammember:
