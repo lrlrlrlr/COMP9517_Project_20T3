@@ -49,7 +49,7 @@ Group Project of COMP9517
 
 
 ## Timetable
-  1. 13:00 18th Nov Demo with Ari
-  1. 19th Nov Report should be completed and review by Ari
+  1. 13:00 18th Nov Demo with Ari (done)
+  1. 19th Nov Report should be completed and review by Ari 
   1. **12:15 20th Nov. Demo**
   1. **11:59 21th Nov. Code & Report Submission**
