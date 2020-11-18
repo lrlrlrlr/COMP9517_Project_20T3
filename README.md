@@ -30,8 +30,8 @@ Group Project of COMP9517
       - [ ] References
       
   1. Demo
-       - [ ] PPT  - by: ?
-       - [ ] Presenter  - by: ?
+       - [x] PPT  - by: Rohan & Rui
+       - [x] Presenter  - by: Rohan
 
 
 ## Timetable
