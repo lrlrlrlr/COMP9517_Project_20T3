@@ -1,6 +1,24 @@
 # COMP9517_Project_20T3
 Group Project of COMP9517
 
+## Currently activities
+ 1. working on Task3: Rui
+ 1. try YOLO + LAB method (if it can improve the performance for t1&t2): Rui , Chester
+ 1. Do the report part: None
+ 1. improve the PPT accroding to the suggestion from Ari: Rui
+
+## Mock Demo with Ari
+ ### Things to improve (PPT)
+  #### Overall
+  1. font format / style
+  #### Task definision
+  1. talk about the dataset
+  #### Method
+  1. More detail about other implementations
+  #### conclusion
+  1. write a conclusion
+  
+
 ## Teammember:
 - Chester Woo
 - Linda Chen
