@@ -2,18 +2,10 @@
 Group Project of COMP9517
 
 ## Currently activities
- 1. working on Task3: Rui
- 1. try YOLO + LAB method (if it can improve the performance for t1&t2): Rui , Chester
  1. Do the report part: None
- 1. improve the PPT accroding to the suggestion from Ari: Rui
 
-## Mock Demo with Ari
- ### Things to improve (PPT)
-  - Overall:  font format / style
-  - Task definision: talk about the dataset
-  - Method:  More detail about other implementations
-  - Conclusion:  write a conclusion
-  
+
+
 
 ## Teammember:
 - Chester Woo
@@ -25,7 +17,7 @@ Group Project of COMP9517
   1. Code
       - [x] Task1  - by: Rohan, Chester
       - [x] Task2  - by: Rohan, Linda & Rui
-      - [ ] Task3  
+      - [x] Task3  - by: Rohan, Linda & Rui
     
   1. Report
       - [ ] Introduction 
@@ -44,8 +36,10 @@ Group Project of COMP9517
       - [ ] References
       
   1. Demo
+       - [x] Presenter  - by: Rohan, Linda
        - [x] PPT  - by: Rohan & Rui
-       - [x] Presenter  - by: Rohan
+       - [x] improved PPT: Rohan, Linda, Rui
+         
 
 
 ## Timetable
@@ -53,3 +47,11 @@ Group Project of COMP9517
   1. 19th Nov Report should be completed and review by Ari 
   1. **12:15 20th Nov. Demo**
   1. **11:59 21th Nov. Code & Report Submission**
+
+## Mock Demo with Ari
+ ### Things to improve (PPT)
+  - Overall:  font format / style
+  - Task definision: talk about the dataset
+  - Method:  More detail about other implementations
+  - Conclusion:  write a conclusion
+  
