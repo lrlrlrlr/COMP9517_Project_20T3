@@ -40,7 +40,8 @@ Group Project of COMP9517
                 - task3 
                 
       - [ ] Conclusion
-      - [ ] References
+      - [ ] References : by all
+      - [x] Contribution of members : by all
       
   1. Demo
        - [x] Presenter  - by: Rohan, Linda
