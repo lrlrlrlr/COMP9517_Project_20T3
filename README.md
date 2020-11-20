@@ -15,9 +15,16 @@ Group Project of COMP9517
 
 ## Task
   1. Code
-      - [x] Task1  - by: Rohan, Chester
-      - [x] Task2  - by: Rohan, Linda & Rui
+      - [x] Task1   
+        - **LAB method(main)**:  Rohan
+        - YOLO:  Chester
+      - [x] Task2 
+        - **LAB method(main)**: Rohan
+        - HSV method: Linda & Rui
       - [x] Task3  - by: Rohan, Linda & Rui
+        - **Watershed method(main)**: Rohan
+        - DeepColoring: Linda & Rui
+
     
   1. Report
       - [ ] Introduction 
