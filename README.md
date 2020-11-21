@@ -21,9 +21,10 @@ Group Project of COMP9517
       - [x] Task2 
         - **LAB method(main)**: Rohan
         - HSV method: Linda & Rui
-      - [x] Task3  - by: Rohan, Linda & Rui
+      - [x] Task3  - by: Rohan, Linda & Rui, Chester
         - **Watershed method(main)**: Rohan
         - DeepColoring: Linda & Rui
+        - Mask-rcnn: Chester
 
     
   1. Report
