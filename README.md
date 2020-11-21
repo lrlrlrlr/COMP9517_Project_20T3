@@ -27,21 +27,22 @@ Group Project of COMP9517
 
     
   1. Report
-      - [ ] Introduction 
-      - [ ] Literature Review
-      - [ ] Methods  
-                - task1  
-                - task2  
-                - task3  
+      - [x] Introduction Rui
+      - [x] Literature Review Rui
+      - [x] Methods  
+                - task1  Linda
+                - task2  Linda Rui
+                - task3  Linda Rui
 
-      - [ ] Experimental Setup  
-                - task1  
-                - task2  
-                - task3 
+      - [x] Experimental Setup  
+                - task1  Chester Linda
+                - task2  Rui
+                - task3  Rui
+              
                 
-      - [ ] Conclusion
-      - [ ] References : by all
-      - [x] Contribution of members : by all
+      - [x] Conclusion Linda, Rui
+      - [x] References : Linda, Rui
+      - [x] Contribution of members : Rui
       
   1. Demo
        - [x] Presenter  - by: Rohan, Linda
