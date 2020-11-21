@@ -31,11 +31,11 @@ Group Project of COMP9517
       - [x] Literature Review Rui
       - [x] Methods  
                 - task1  Linda  
-                - task2  Linda Rui  
-                - task3  Linda Rui  
+                - task2  Linda Rui   
+                - task3  Linda Rui    
 
       - [x] Experimental Setup  
-                - task1  Chester Linda
+                - task1  Chester Rui  
                 - task2  Rui  
                 - task3  Rui  
               
